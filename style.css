@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+p {
+  font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+}
+body{ /* longhand */
+  background-image: url(http://fallinpets.com/wp-content/uploads/2017/11/FUNNY-CAT-PICTURES.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+header,
+section,
+footer {
+  padding: 100px 150px;
+}
+.cat{
+  siz
+}
+
+.pawz{
+  width: 23%
+}
