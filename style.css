@@ -8,14 +8,14 @@ p {
   font-family: 'Indie Flower', cursive;
 }
 table, th, td {
-  border: 1px solid black; 
+  border: 1px solid black;
 }
 h1 {
   font-family: 'Indie Flower', cursive;
   font-size: 40px;
 }
 body{ /* longhand */
-  background-image: url(http://fallinpets.com/wp-content/uploads/2017/11/FUNNY-CAT-PICTURES.jpg);
+  <--background-image: url(http://fallinpets.com/wp-content/uploads/2017/11/FUNNY-CAT-PICTURES.jpg);-->
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -26,7 +26,7 @@ footer {
   padding: 100px 150px;
 }
 .cat{
-  siz
+  size
 }
 
 .pawz{
